@@ -3,6 +3,9 @@
 
 A simple JavaScript-based game where players attempt to guess a randomly generated number within a specified range. This project is a fun way to explore the basics of JavaScript, HTML, and CSS.
 
+## Play the Game Online (DEMO)
+You can play the game [here](https://otlibtech.github.io/js-guess-number/).
+
 ## How to Play
 
 1. Open the game in your web browser by navigating to [index.html](index.html).
